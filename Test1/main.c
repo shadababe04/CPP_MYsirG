@@ -2,5 +2,5 @@
 int main()
 {
     printf("shadab");
-    return 1;
+    return 0;
 }
